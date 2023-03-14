@@ -1,14 +1,10 @@
 ---
-title: About Aidan Charles Powell
+title: Whoami
 layout: about.njk
-name: Aidan Charles Powell
+name: me and this blog
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+I'm a 20-year-old cybersecurity engineer who specialises in binary exploitation and enjoys reading about reverse-engineering/malware developement. But my true passion are anekdoti, so yeah, this blog is partly(mostly) about them.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
-
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+This blog is no holy grail of any specialist, nor this is a reference page. That's just a place where I put my thoughts, that are truly worth sharing. Come join me and I'll tell you some anekdoti on the way!
